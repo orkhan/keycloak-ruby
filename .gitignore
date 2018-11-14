@@ -1,0 +1,6 @@
+keycloak-*.gem
+.rspec_status
+.DS_STORE
+.idea/*
+.idea
+.vscode/

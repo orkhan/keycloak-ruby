@@ -1,0 +1,11 @@
+{
+  "realm": "master",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "admin-cli",
+  "public-client": true,
+  "credentials": {
+    "secret": null
+  },
+  "confidential-port": 0
+}
