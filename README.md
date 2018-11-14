@@ -13,7 +13,7 @@ Exemple: https://github.com/imagov/example-gem-keycloak
 Add this line in your application's <b>gemfile</b>:
 
 ```ruby
-gem 'keycloak'
+gem 'keycloak-ruby'
 ```
 
 Install the gem by running:
@@ -22,7 +22,7 @@ Install the gem by running:
 
 Or install it yourself:
 
-    $ gem install keycloak
+    $ gem install keycloak-ruby
 	
 To add the configuration file:
 
